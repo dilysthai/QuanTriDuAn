@@ -1,0 +1,128 @@
+.DangNhapThanhCong {
+    display: flex;
+    height: 45px;
+    width: 98%;
+    margin-top: 30px;
+    margin-left: 20px;
+    background: #93c19e;
+    border-radius: 5px;
+}
+
+.DangNhapThanhCong p {
+    color: #ffffff;
+    padding-top: 10px;
+    font-size: 18px;
+    margin-left: 470px;
+    font-weight: bold;
+}
+
+input.input5 {
+    border: navajowhite;
+    background: transparent;
+    margin-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pagination {
+    margin-left: 500px;
+}
+
+.table.table-hover {
+    margin-top: 0px;
+    border: 1px solid #343a40;
+    width: 1185px;
+}
+
+.AnhLapTop {
+    height: 150px;
+    width: 100%;
+    margin-left: 3px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.anhLapTop {
+    height: 280px;
+    width: 265px;
+    margin-left: 33px;
+}
+
+.anhLapTop2 {
+    height: 280px;
+    width: 265px;
+    margin-left: 38px;
+}
+
+.anhLapTop3 {
+    height: 300px;
+    width: 265px;
+    margin-left: 35px;
+}
+
+.anhLapTop4 {
+    height: 300px;
+    width: 265px;
+    margin-left: 35px;
+}
+
+.imagelaptop {
+    height: 150px;
+    width: 300px;
+}
+
+.p {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.Phan1 {
+    padding: 0px;
+    margin: 0px;
+    background: #ffff;
+    height: 55px;
+    width: 100%;
+    display: flex;
+}
+
+.Phan1Trai {
+    width: 20%;
+    height: 100%;
+    display: flex;
+}
+
+.Phan1Phai {
+    width: 80%;
+    height: 100%;
+    border: black;
+}
+
+.Phan1 img {
+    height: 80%;
+    margin-left: 10px;
+    width: 60px;
+    margin-top: 5px;
+}
+
+.Phan1 p {
+    margin-top: 7px;
+    margin-left: 10px;
+    font-size: 22px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Phan1 span {
+    color: white;
+    margin-left: -25px;
+}
+
+.Phan1 a {
+    color: white;
+}
+
+.Phan1 a:hover {
+    color: white;
+}

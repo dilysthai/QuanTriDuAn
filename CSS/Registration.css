@@ -1,0 +1,140 @@
+.Login{
+    background-image: url('../Image/anhnen3.jpg');
+    width: 100%;
+    height: 667px;
+    margin-top: -17px;
+}
+
+.FormDangKy {
+    padding-top: 120px;
+    margin-left: 450px;
+}
+.FormDangKy form{
+    /* padding-top: 110px; */
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: 420px; 
+    width: 580px;
+    background-image: url('../Image/anhnen7.jpg');
+}
+.FormDangKy label {
+    margin-top: 35px;
+    margin-left: 35px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+
+
+.FormDangKy form p {
+    background: #ec0537;
+    height: 60px;
+    text-align: center;
+    padding-top: 6px;
+    color: #ffffff;
+    font-size: 22px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.FormDangKy input.input1 {
+    margin-left: 90px;
+    width: 320px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.FormDangKy input.input2 {
+    margin-left: 95px;
+    width: 320px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.FormDangKy input.input4 {
+    margin-left: 30px;
+    width: 320px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.FormDangKy input.input1:hover {
+    border: 1px solid black;
+}
+
+p.ThongBao {
+    color: red;
+    margin-left: 30px;
+}
+
+.FormDangNhap {
+    padding-top: 135px;
+    margin-left: 450px;
+}
+
+.FormDangNhap form{
+    /* padding-top: 110px; */
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: 380px; 
+    width: 580px;
+    background-image: url('../Image/anhnen7.jpg');
+}
+.text {
+color: #fff;
+top: 10px;
+left: 70px;
+}
+
+
+.FormDangNhap label {
+    margin-top: 40px;
+    margin-left: 35px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.FormDangNhap form p {
+    background: #ec0537;
+    height: 60px;
+    text-align: center;
+    padding-top: 6px;
+    color: #ffffff;
+    font-size: 22px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.FormDangNhap input.input1 {
+    margin-left: 90px;
+    width: 320px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.FormDangNhap input.input2 {
+    margin-left: 95px;
+    width: 320px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.FormDangNhap input.input1:hover {
+    border: 1px solid black;
+}
+
+.alert {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border-radius: .25rem;
+    margin-top: -51.5px;
+    width: 576px;
+    margin-left: 2px;
+}
